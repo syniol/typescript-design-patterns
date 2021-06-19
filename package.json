@@ -1,0 +1,25 @@
+{
+  "name": "ts-gof-patterns",
+  "version": "1.0.0",
+  "description": "GoF TypeScript",
+  "main": "src/index.ts",
+  "repository": "https://github.com/syniol/typescript-design-patterns",
+  "author": "Hadi Tajallaei <hadi@syniol.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.17",
+    "@types/node": "^14.14.14",
+    "@types/pg": "^7.14.7",
+    "jest": "^26.6.3",
+    "mysql": "^2.18.1",
+    "pg": "^8.5.1",
+    "prettier": "^2.2.1",
+    "ts-jest": "^26.4.4",
+    "typescript": "^4.1.3"
+  }
+}
