@@ -1,11 +1,11 @@
 {
   "name": "ts-gof-patterns",
   "version": "1.0.0",
-  "description": "GoF TypeScript",
+  "description": "Software Engineering Design Patterns using TypeScript in Node EcoSystem",
   "main": "src/index.ts",
   "repository": "https://github.com/syniol/typescript-design-patterns",
   "author": "Hadi Tajallaei <hadi@syniol.com>",
-  "license": "MIT",
+  "license": "private",
   "private": false,
   "scripts": {
     "build": "tsc",
